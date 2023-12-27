@@ -1,0 +1,8 @@
+/ContrastName1	pos eff fup VFC 
+/ContrastName2	neg eff fup VFC 
+/NumWaves	3
+/NumContrasts	2
+
+/Matrix
+1	0	0
+-1	0	0

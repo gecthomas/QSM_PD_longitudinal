@@ -1,0 +1,8 @@
+/ContrastName1	pos eff fup HADSanx 
+/ContrastName2	neg eff fup HADSanx
+/NumWaves	3
+/NumContrasts	2
+
+/Matrix
+1	0	0
+-1	0	0

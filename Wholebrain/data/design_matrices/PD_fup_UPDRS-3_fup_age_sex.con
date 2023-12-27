@@ -1,0 +1,8 @@
+/ContrastName1	pos eff fup UPDRS-3 
+/ContrastName2	neg eff fup UPDRS-3 
+/NumWaves	3	
+/NumContrasts	2
+
+/Matrix
+1	0	0
+-1	0	0

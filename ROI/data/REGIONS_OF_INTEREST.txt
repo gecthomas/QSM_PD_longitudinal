@@ -1,0 +1,12 @@
+Dentate Nucleus
+SNpc
+SNpr
+Red nucleus
+NBM
+Caudate Nucleus 
+Putamen 
+Globus Pallidus 
+Hippocampus
+insula
+lateral orbitofrontal
+medial orbitofrontal

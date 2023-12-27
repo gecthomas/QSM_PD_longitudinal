@@ -1,0 +1,8 @@
+/ContrastName1	pos eff fup CCog 
+/ContrastName2	neg eff fup CCog 
+/NumWaves	4
+/NumContrasts	2
+
+/Matrix
+1.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+-1.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
