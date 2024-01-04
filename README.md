@@ -21,7 +21,10 @@ All data provided here are anonymised.
   * code - _shell scripts to run voxel-wise analyses from the paper_ 
   * data - _smoothed voxel-wise QSM maps for subjects, as well as group mean and brain masks_
     * design_matrices - _design and contrast matrices required for running voxel-wise analyses_ 
-  * results - _voxel-wise stasistical summarizing group level results (these can also be re-generated using the code provided)_
+  * results - _pre-generated voxel-wise tstat and p maps summarizing group level results (these can also be re-generated using the code provided)_
+
+Dependencies: R, FSL
+
+These analyses were initially run using R version 4.2.2 and FSL version 5.0.10
 
 If you have any questions about this repository, please email george.thomas.14@ucl.ac.uk
-    
